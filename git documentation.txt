@@ -1,0 +1,9 @@
+git add . : stages every file in working directory
+git status : status of files in dir
+git commit -m "message" : commits / stores history of changes made
+git stash : stores changes made that we might need again in future, restores file before changes
+git stash pop : brings back the changes stored in stash
+git stash clear : clears stash
+git log : shows commits
+git restore --staged "filename"
+git git reset b4c3f5890166ebb63f83e8b89acdda6a396869bb
