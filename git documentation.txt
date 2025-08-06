@@ -6,17 +6,6 @@ git stash pop : brings back the changes stored in stash
 git stash clear : clears stash
 git log : shows commits
 git restore --staged "filename"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 git git reset b4c3f5890166ebb63f83e8b89acdda6a396869bb : removes previous commits
 git revert : creates the new commit that brings the previous file state but does not remove any previous commits
-=======
-git reset b4c3f5890166ebb63f83e8b89acdda6a396869bb
->>>>>>> a5d9a41758219a930eb7314b2cf413f9a8ad4349
-=======
-git reset b4c3f5890166ebb63f83e8b89acdda6a396869bb
->>>>>>> a5d9a41758219a930eb7314b2cf413f9a8ad4349
-=======
-git reset b4c3f5890166ebb63f83e8b89acdda6a396869bb
->>>>>>> a5d9a41758219a930eb7314b2cf413f9a8ad4349
+
